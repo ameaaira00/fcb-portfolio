@@ -34,7 +34,7 @@ img	{
 }
 
 #gallery { 					/*pound sign for id*/
-	height: 150vh;
+	height: 80vh;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -57,7 +57,7 @@ h2 {
 	padding: 25px;				/*adds space WITHIN the box*/
 	border: 5px solid #f2f2f2;		/*shorthand version*/
 	margin: 20px;				/*adds space OUTSIDE the box*/
-	height: 300px;
+	height: 200px;
 	width: 75%;				/*75% of parent*/
 }
 
