@@ -34,7 +34,7 @@ img	{
 }
 
 #gallery { 						/*pound sign for id*/
-	height: 90vh;
+	height: 100vh;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
